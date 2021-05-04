@@ -15,7 +15,7 @@ conclusion as to which stocks to potentially long/short.
 This tool will be able to take a single financial statement (quarterly/annually/etc), parse it into a standard
 format, read in values, calculate ratios and other factors, then output an analysis and an overall "score" of
 the company.  This tool will also be able to take multiple financial statements from the same company across
-a period of time and give are more detailed analysis of growth and such.  This tool will also be able to take
+a period of time and give a more detailed analysis of growth and such.  This tool will also be able to take
 multiple companies within an industry and compare them across a period of time and give a more detailed
 analysis.  This tool will also be able to take multiple industry analyses and compare them overall to give an
 even more detailed analysis, and find the overall greatest and not-so-greatest picks at this current time.
