@@ -1,11 +1,26 @@
 ##############################################################################################################
-# TODO: work like block comments
+# File Name: main.py
+# Revision: 0.0.0
+# Date: 2021-May-05
+#
+# Author(s)
+#
+# Name:             Michael Welsh
+# Email:            mjw6093@psu.edu
+#
+# Revision      Date            Initials        Brief
+#
+# 0.0.0         2021-May-05     mjw             Initial version
+#
+# Notes:
+#       N/A
+#
 ##############################################################################################################
 
 
 
 ##############################################################################################################
-# Ideas/TODOs: work like block comments for TODO
+# Ideas/TODOs:
 #
 #   Single FS Analysis (Each FS might be an object of the FS class)  ("FS")
 #       - One function takes a financial statement, and creates a new standard format easily readable
@@ -47,17 +62,24 @@
 
 
 
-
-
-
-
-
-
+# Internal imports
+from fs import FS
 
 
 
 def main():
-    pass
+
+    """
+    TODO
+    """
+
+    # TODO
+    x = FS()
+
+
+
+
+# end main
 
 
 
@@ -69,7 +91,8 @@ def main():
 
 
 
-    
 
-if __name__ == "__main__"
+
+if __name__ == "__main__":
     main()
+# end if
